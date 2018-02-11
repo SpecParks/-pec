@@ -15,6 +15,11 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class DonationFormPage {
 
+  formData = {
+    name: '',
+    email: '',
+  };
+
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
