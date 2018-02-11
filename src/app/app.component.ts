@@ -6,6 +6,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
 import { ContentPage } from "../pages/content/content";
+import { DonationDetailsPage } from "../pages/donation-details/donation-details";
 
 @Component({
   templateUrl: 'app.html'
@@ -26,6 +27,7 @@ export class MyApp {
       { title: 'List', component: ListPage },
       // TODO: remove from menu
       { title: 'Learn More', component: ContentPage },
+      { title: 'Support Us', component: DonationDetailsPage },
     ];
 
   }
