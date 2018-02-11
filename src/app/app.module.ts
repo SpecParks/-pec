@@ -10,6 +10,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { ContentPage } from "../pages/content/content";
 import { DonationDetailsPage } from "../pages/donation-details/donation-details";
+import { DonationFormPage } from "../pages/donation-form/donation-form";
 
 @NgModule({
   declarations: [
@@ -18,6 +19,7 @@ import { DonationDetailsPage } from "../pages/donation-details/donation-details"
     ListPage,
     ContentPage,
     DonationDetailsPage,
+    DonationFormPage,
   ],
   imports: [
     BrowserModule,
@@ -30,6 +32,7 @@ import { DonationDetailsPage } from "../pages/donation-details/donation-details"
     ListPage,
     ContentPage,
     DonationDetailsPage,
+    DonationFormPage,
   ],
   providers: [
     StatusBar,

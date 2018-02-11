@@ -7,6 +7,7 @@ import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
 import { ContentPage } from "../pages/content/content";
 import { DonationDetailsPage } from "../pages/donation-details/donation-details";
+import { DonationFormPage } from "../pages/donation-form/donation-form";
 
 @Component({
   templateUrl: 'app.html'
@@ -28,6 +29,7 @@ export class MyApp {
       // TODO: remove from menu
       { title: 'Learn More', component: ContentPage },
       { title: 'Support Us', component: DonationDetailsPage },
+      { title: 'Send Donation', component: DonationFormPage },
     ];
 
   }
