@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { DonationFormPage } from "../donation-form/donation-form";
 
 /**
  * Generated class for the DonationDetailsPage page.
@@ -20,6 +21,10 @@ export class DonationDetailsPage {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad DonationDetailsPage');
+  }
+
+  goToDonationFormPage() {
+    this.navCtrl.push(DonationFormPage)
   }
 
 }
