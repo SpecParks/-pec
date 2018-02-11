@@ -15,19 +15,17 @@
 
 <ion-content padding>
   <h3> Chip in what you can! </h3>
-  <form #form="ngForm" (ngSubmit)="logForm()" novalidate>
+  <form #form="ngForm" (ngSubmit)="goToThankYou()" novalidate>
     <ion-item>
       <ion-label>Name</ion-label>
-      <ion-input type="text" required name="title"
-        [(ngModel)]="formData.name"></ion-input>
+      <ion-input type="text" required name="title"></ion-input>
     </ion-item>
     <ion-item>
       <ion-label>Email</ion-label>
-      <ion-input type="text" required name="title"
-        [(ngModel)]="formData.email"></ion-input>
+      <ion-input type="text" required name="title"></ion-input>
     </ion-item>
 
 
-    <button ion-button type="submit" block>Send Donation</button>
+    <button ion-button type="submit" block>Send $5 Donation</button>
   </form>
 </ion-content>

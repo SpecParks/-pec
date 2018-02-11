@@ -8,6 +8,7 @@ import { ListPage } from '../pages/list/list';
 import { ContentPage } from "../pages/content/content";
 import { DonationDetailsPage } from "../pages/donation-details/donation-details";
 import { DonationFormPage } from "../pages/donation-form/donation-form";
+import { ThankYouPage } from "../pages/thank-you/thank-you";
 
 @Component({
   templateUrl: 'app.html'

@@ -11,6 +11,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 import { ContentPage } from "../pages/content/content";
 import { DonationDetailsPage } from "../pages/donation-details/donation-details";
 import { DonationFormPage } from "../pages/donation-form/donation-form";
+import { ThankYouPage } from "../pages/thank-you/thank-you";
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { DonationFormPage } from "../pages/donation-form/donation-form";
     ContentPage,
     DonationDetailsPage,
     DonationFormPage,
+    ThankYouPage,
   ],
   imports: [
     BrowserModule,
@@ -33,6 +35,7 @@ import { DonationFormPage } from "../pages/donation-form/donation-form";
     ContentPage,
     DonationDetailsPage,
     DonationFormPage,
+    ThankYouPage,
   ],
   providers: [
     StatusBar,
