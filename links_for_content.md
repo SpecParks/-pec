@@ -10,6 +10,9 @@ old faithful
 
 # Pictures Content
 
+cross country ski
+https://www.yellowstonepark.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_700/MTQ3MzIwMDY5MDYyOTI3ODIy/rm-what-a-view_tamtomluhmann_700.webp
+
 mountaineers snow
 <a href="https://www.tripadvisor.com/LocationPhotos-g60999-Yellowstone_National_Park_Wyoming.html#228127167"><img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/0d/98/f1/bf/downhill-fun-at-bridger.jpg"/></a><br/>This photo of Yellowstone National Park is courtesy of TripAdvisor
 
@@ -26,6 +29,14 @@ sharing the trail
 https://www.yellowstonepark.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_700/MTQ3MzIwMDY5MDY4MzY3MzEw/gc-meeting-on-bright-angel-trail_tammikeorrill_700.webp
 
 ## wild life 
+
+moose crossing river 
+
+https://www.yellowstonepark.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_525/MTQ3MzIwMDY4MjU0OTM0NDc4/moose-gteton-river-autumn_ordelheide_800.webp
+
+bison head 
+
+https://www.yellowstonepark.com/.image/c_limit%2Ccs_srgb%2Cq_80%2Cw_708/MTQ3MzIwMDY4Nzg2MTY5Mjk0/bison-profile-closeup-gteton_ordelheide_800.webp
 
 wolf
 
