@@ -6,6 +6,8 @@ https://www.nps.gov/common/uploads/grid_builder/imr/crop1_1/EF1AE95C-1DD8-B71B-0
 
 old faithful
 
+https://en.wikipedia.org/wiki/Old_Faithful#/media/File:OldFaithful1948.jpg
+
 
 
 # Pictures Content
