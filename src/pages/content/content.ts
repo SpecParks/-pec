@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { DonationDetailsPage } from "../donation-details/donation-details";
 
 /**
  * Generated class for the ContentPage page.
@@ -20,6 +21,10 @@ export class ContentPage {
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad ContentPage');
+  }
+
+  goToDonationImpact() {
+    this.navCtrl.push(DonationDetailsPage);
   }
 
 }
