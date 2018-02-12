@@ -14,8 +14,8 @@
 
 
 <ion-content padding>
-  <h3> Chip in what you can! </h3>
-  <form #form="ngForm" (ngSubmit)="goToThankYou()" novalidate>
+  <h3> Chip in what you can for the Trail Fund! </h3>
+  <form #form="ngForm" novalidate>
     <ion-item>
       <ion-label>Name</ion-label>
       <ion-input type="text" required name="title"></ion-input>
@@ -26,6 +26,6 @@
     </ion-item>
 
 
-    <button ion-button type="submit" block>Send $5 Donation</button>
+    <button ion-button type="submit" block (click)="goToThankYou()">Send $5 Donation</button>
   </form>
 </ion-content>

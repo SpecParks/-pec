@@ -29,7 +29,7 @@ export class DonationFormPage {
   }
 
   goToThankYou() {
-    console.log('TODO: go to thank you')
+    console.log('TODO: go to thank you');
     this.navCtrl.push(ThankYouPage);
   }
 
